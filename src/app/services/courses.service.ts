@@ -6,7 +6,7 @@ import { CourseSearchResult } from '../model/courseSearchResult';
 import { Course } from '../model/course';
 import { Application } from '../model/application';
 
-const baseURL = 'https://vercel-courses-backend.vercel.app:3000/api';
+const baseURL = 'https://vercel-courses-backend-git-main-dimitrije-krstics-projects.vercel.app/courses:3000/api';
 // const baseURL = 'http://localhost:3000/api';/
 
 @Injectable({
